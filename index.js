@@ -20,6 +20,23 @@
 // }
 
 // const car = new Car("Spark", "Chevrolet", 20000);
+// class Moto extends Car {
+//   constructor(name, model, price, color) {
+//     super(name, model, price);
+//     this.color = color;
+//   }
+
+//   what() {
+//     return `Mashina nomi ${this.name}, modeli ${this.model}, narxi ${this.price} rangi ${this.color}`;
+//   }
+
+//   about() {
+//     return super.info();
+//   }
+// }
+
+// const moto1 = new Moto("white");
+// console.log(moto1.about());
 
 // // console.log(car);
 
